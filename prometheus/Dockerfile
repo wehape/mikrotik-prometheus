@@ -1,6 +1,6 @@
 FROM alpine
 
-LABEL maintainer="ajidiyantoro@gmail.com"
+LABEL maintainer="wehape3@gmail.com"
 LABEL version="1.0"
 
 ENV prometheus_version 2.43.0
